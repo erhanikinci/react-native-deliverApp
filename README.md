@@ -27,7 +27,7 @@ npm install
 ```bash
 npx expo
 ```
-
+OR
 ```bash
 yarn add
 ```
