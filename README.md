@@ -2,28 +2,28 @@
 
 This is a simpler React Native Deliver App with Expo App
 
-To run the project, check out the [deliverApp](./deliverApp).
+To run the project, check out the [deliverApp](.).
 
 ## App Screenshots
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./deliverApp/screenshots/1.png" width=30%>
-<img src="./deliverApp/screenshots/2.png" width=30%>
-<img src="./deliverApp/screenshots/3.png" width=30%>
-<img src="./deliverApp/screenshots/5.png" width=30%>
-<img src="./deliverApp/screenshots/6.png" width=30%>
-<img src="./deliverApp/screenshots/7.png" width=30%>
-<img src="./deliverApp/screenshots/8.png" width=30%>
-<img src="./deliverApp/screenshots/9.png" width=30%>
-<img src="./deliverApp/screenshots/10.png" width=30%>
-<img src="./deliverApp/screenshots/11.png" width=30%>
-<img src="./deliverApp/screenshots/12.png" width=30%>
-<img src="./deliverApp/screenshots/13.png" width=30%>
-<img src="./deliverApp/screenshots/14.png" width=30%>
-<img src="./deliverApp/screenshots/15.png" width=30%>
-<img src="./deliverApp/screenshots/16.png" width=30%>
-<img src="./deliverApp/screenshots/17.png" width=30%>
-<img src="./deliverApp/screenshots/18.png" width=30%>
+<img src="./screenshots/1.png" width=30%>
+<img src="./screenshots/2.png" width=30%>
+<img src="./screenshots/3.png" width=30%>
+<img src="./screenshots/5.png" width=30%>
+<img src="./screenshots/6.png" width=30%>
+<img src="./screenshots/7.png" width=30%>
+<img src="./screenshots/8.png" width=30%>
+<img src="./screenshots/9.png" width=30%>
+<img src="./10.png" width=30%>
+<img src="./11.png" width=30%>
+<img src="./12.png" width=30%>
+<img src="./screenshots/13.png" width=30%>
+<img src="./screenshots/14.png" width=30%>
+<img src="./screenshots/15.png" width=30%>
+<img src="./screenshots/16.png" width=30%>
+<img src="./screenshots/17.png" width=30%>
+<img src="./screenshots/18.png" width=30%>
 </div>
 
 ## API Screenshots
